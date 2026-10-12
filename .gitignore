@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+index.db
+index.db.building
